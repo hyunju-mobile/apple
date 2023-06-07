@@ -13,6 +13,7 @@
 ## 완성 작품
 
 ### 작품 회로도
+![raspberrypi](https://github.com/hyunju-mobile/apple/assets/131326632/41561b3b-812e-4f7b-8d9b-0fb9a490df8a)
 
 ### 작품 사진
 
